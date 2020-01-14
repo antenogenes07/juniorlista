@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, HBO 2
+http://us13.server.kkzulu.xyz/HD_HBO_2/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1, FOX 
+http://pl.server.kecho.xyz/HD_FOX/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1, FX
+http://ge.server.kyankee.live/HD_FX/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1, MAX
+http://us12.server.kkalfa.xyz/HD_MAX/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1, MEGAPIX
+http://us13.server.knovember.live/HD_MEGAPIX/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
