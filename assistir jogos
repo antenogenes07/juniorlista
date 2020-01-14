@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,ESPN BRASIL HD
+http://us12.server.kkbravo.xyz/FHD_ESPN_BRASIL/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,ESPN 2 HD
+http://us12.server.kklima.xyz/HD_ESPN_2/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,ESPN EXTRA HD
+http://us12.server.kkgolf.xyz/HD_ESPN_EXTRA/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,FOX SPORTS HD
+http://us12.server.kkalfa.xyz/HD_FOX_SPORTS_1/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,FOX SPORTS 2 HD
+http://us12.server.kkvictor.xyz/HD_FOX_SPORTS_2/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,SPORT TV HD
+http://pl.server.kkecho.xyz/HD_SPORTV_1/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,PLAY BOY TV HD
+http://us13.server.knovember.live/SD_PLAYBOY/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
+#EXTINF:-1,PRIVATE
+https://us11.kgolf.store/HD_PRIVATE/video.m3u8?token=161e0c708afdda43f89a5ed76961a0e1
